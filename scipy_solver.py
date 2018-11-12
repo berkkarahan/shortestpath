@@ -1,11 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Jan  1 19:11:19 2018
-
-@author: berk
-"""
-
-# -*- coding: utf-8 -*-
 """
 Created on Mon Jan  1 17:05:59 2018
 
